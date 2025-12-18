@@ -1,0 +1,10 @@
+C:\xampp\htdocs\inf0.3\c#\zad_12_tsk\zad_12_tsk\obj\Debug\zad_12_tsk.csproj.AssemblyReference.cache
+C:\xampp\htdocs\inf0.3\c#\zad_12_tsk\zad_12_tsk\obj\Debug\zad_12_tsk.Form1.resources
+C:\xampp\htdocs\inf0.3\c#\zad_12_tsk\zad_12_tsk\obj\Debug\zad_12_tsk.Properties.Resources.resources
+C:\xampp\htdocs\inf0.3\c#\zad_12_tsk\zad_12_tsk\obj\Debug\zad_12_tsk.csproj.GenerateResource.cache
+C:\xampp\htdocs\inf0.3\c#\zad_12_tsk\zad_12_tsk\obj\Debug\zad_12_tsk.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\inf0.3\c#\zad_12_tsk\zad_12_tsk\bin\Debug\zad_12_tsk.exe.config
+C:\xampp\htdocs\inf0.3\c#\zad_12_tsk\zad_12_tsk\bin\Debug\zad_12_tsk.exe
+C:\xampp\htdocs\inf0.3\c#\zad_12_tsk\zad_12_tsk\bin\Debug\zad_12_tsk.pdb
+C:\xampp\htdocs\inf0.3\c#\zad_12_tsk\zad_12_tsk\obj\Debug\zad_12_tsk.exe
+C:\xampp\htdocs\inf0.3\c#\zad_12_tsk\zad_12_tsk\obj\Debug\zad_12_tsk.pdb
